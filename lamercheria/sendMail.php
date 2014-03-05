@@ -46,7 +46,7 @@ mail ( $Destino , $Titulo , $Mensaje);
 						<a href="index.html?#email" class="fa fa-envelope"><span>CONTACTA</span></a>
 						<a href="http://lamercheria.blogspot.com.es/" class="fa fa-google-plus"><span>BLOG</span></a>
 						<a href="https://twitter.com/LaMercheria" class="fa fa-twitter"><span>TWITTER</span></a>
-						<a href="https://www.facebook.com/public/La-Mercheria-Blogspot" class="fa fa-facebook"><span>FACEBOOK</span></a>
+						<a href="https://www.facebook.com/lamercheria.blogspot" class="fa fa-facebook"><span>FACEBOOK</span></a>
 					</nav>
 
 				<!-- Main -->
