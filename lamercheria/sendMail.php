@@ -2,7 +2,7 @@
 $Nombre = $_POST['name'];
 $Mail = $_POST['email']; 
 $Mensaje = $_POST['message'];
-$Destino = "mguerrero@linkcare.es";
+$Destino = "lamercheria@gmail.com";
 $Titulo = "Mensaje desde la web http://lamercheria.host56.com";
 
 $Mensaje = "Nombre: ".$Nombre."\nMail: ".$Mail."\nMensaje: ".$Mensaje;
@@ -46,7 +46,7 @@ mail ( $Destino , $Titulo , $Mensaje);
 						<a href="index.html?#email" class="fa fa-envelope"><span>CONTACTA</span></a>
 						<a href="http://lamercheria.blogspot.com.es/" class="fa fa-google-plus"><span>BLOG</span></a>
 						<a href="https://twitter.com/LaMercheria" class="fa fa-twitter"><span>TWITTER</span></a>
-						<a href="https://es-la.facebook.com/mercedes.guerrero.3382" class="fa fa-facebook"><span>FACEBOOK</span></a>
+						<a href="https://www.facebook.com/public/La-Mercheria-Blogspot" class="fa fa-facebook"><span>FACEBOOK</span></a>
 					</nav>
 
 				<!-- Main -->
@@ -71,7 +71,7 @@ mail ( $Destino , $Titulo , $Mensaje);
 				<!-- Footer -->
 					<div id="footer">
 						<ul class="links">
-						<li>&copy; La Mercheria. Todos los derechos reservados 2014 ® Barcelona (SPAIN)<br> Contacto Tél. <strong>+34 629 97 33 33</strong> Mail. <strong>mguerrero@linkcare.es</strong></li>
+						<li>&copy; La Mercheria. Todos los derechos reservados 2014 ® Barcelona (SPAIN)<br> Contacto Tél. <strong>+34 629 97 33 33</strong> Mail. <strong>lamercheria@gmail.com</strong></li>
 						</ul>
 					</div>
 		
