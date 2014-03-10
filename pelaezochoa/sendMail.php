@@ -39,7 +39,7 @@ mail ( $Destino , $Titulo , $Mensaje);
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<img src="images/portada.jpg" width="100px"
+					<!--<img src="images/portada.jpg" width="100px"
 					style="
 					
 border-radius: 40px 40px 40px 40px; 
@@ -65,7 +65,7 @@ border-radius: 40px 40px 40px 40px;
 -webkit-border-radius: 40px 40px 40px 40px; 
 
 					"
-					>
+					>-->
 					<h1>Mensaje enviado correctamente!</h1>
 				</header>
 				<footer>
