@@ -2,7 +2,7 @@
 $Nombre = $_POST['name'];
 $Mail = $_POST['email']; 
 $Mensaje = $_POST['message'];
-$Destino = "guillermoaltuna@hotmail.com";
+$Destino = "sandwitchwoman@gmail.com";
 $Titulo = "NUEVO PEDIDO!";
 
 $Mensaje = "Nombre: ".$Nombre."\nMail: ".$Mail."\nMensaje: ".$Mensaje;
